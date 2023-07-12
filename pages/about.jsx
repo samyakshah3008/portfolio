@@ -25,14 +25,16 @@ export default function About() {
             <div className="flex md:flex-row flex-col py-10 justify-around items-start">
               <div className="w-full border-2 p-4 shadow-md rounded-md border-50">
                 <Image
-                  src="/displayPicture.jpg"
+                  src="/front-profile-pic.png"
                   height="300"
                   width="300"
+                  style={{objectFit: "cover"}}
                   alt="about-dp"
+                  
                 />
                 <h2>
                   <span className="text-lg font-bold text-gray-900 dark:text-gray-200">
-                    Soham Shah
+                    Samyak Shah
                   </span>
                 </h2>
                 <h2>
@@ -47,108 +49,39 @@ export default function About() {
                 </h2>
                 <h2>
                   <span className="text-md text-gray-900 dark:text-gray-200">
-                    sohamshah456@gmail.com
+                    samyakshah3008@gmail.com
                   </span>
                 </h2>
               </div>
               <div className="md:pl-16 md:pt-0 pl-0 pt-8 pr-4 md:pr-16">
                 <h2 className="text-3xl font-bold pb-4 text-gray-900 dark:text-gray-200">
                   {" "}
-                  Hi 👋 I&apos;m Soham Shah
+                  Hi 👋 I&apos;m Samyak Shah
                 </h2>
                 <p className="text-lg pb-4">
-                  I am a passionate engineer; here with an aim to create
-                  positive impact - with the power of code. Programming in
-                  simple terms actually boils down to one purpose - `Problem
-                  Solving`. Thus, I don&apos;t prefer confining myself to a
-                  particular language or framework; and instead being extremely
-                  dynamic to learn and build whatever problem demands.
+                I apply best practices to software development, design, and delivery. I'm a polyglot programmer who is able to work with diverse technologies.
                 </p>
                 <p className="text-lg pb-4">
-                  I am currently an undergraduate student of Information and
-                  Communication Technology (ICT) at Adani Institute of
-                  Infrastructure Enginnering. Have been organizing and mentoring
-                  various workshops, hackathons and community events. I am
-                  ardent about the Startup Culture, Computer Science Research
-                  and Product Engineering.
+                I am an undergraduate student of Computer Science and Engineering at Lok Jagruti University. I am deeply passionate about the intersection of technology and humanity; and, more specifically, how technology can be used to empower people and communities.
                 </p>
                 <p className="text-lg pb-4">
-                  Presently, I am aligned to Web Technologies and Tooling and
-                  play with Frontend everyday. Also, I possess decent experience
-                  with Machine Learning and Computer Vision Paradigms of
-                  Computer Science; where my research interest lies.
+                My world revolves around coding and open-source. I love to learn and share my knowledge with the community, and to create and collaborate on amazing projects.
                 </p>
                 <p className="text-lg pb-4">
-                  If not programming, you can find me singing, reading
-                  philosophy and cosmology, writing poetry or making funny
-                  programming memes on my Instagram meme page.
+                I am a bookworm, a lover of words and languages. At the moment, my thoughts are all over the place and my words are scattered with no cohesion whatsoever, but maybe one day they will find their destination.
                 </p>
                 <p className="text-lg pb-4">
                   Feel free to check out my{" "}
                   <Link href="/resume">
-                    <a className="underline"> Resume</a>
+                    <a className="underline">Resume</a>
                   </Link>
-                  ,{" "}
+                    {" "}and{" "} 
                   <Link href="/projects">
-                    <a className="underline">Projects</a>
-                  </Link>{" "}
-                  and{" "}
-                  <Link href="/talks">
-                    <a className="underline">Talks</a>
+                    <a className="underline"> Projects</a>
                   </Link>
-                  .
+          
                 </p>
-                <p className="text-lg pb-4">
-                  Want to dicuss tech, ideas or opportunities? You can always
-                  reach out to me on:
-                </p>
-                <ul className="text-xl pb-4">
-                  <li className="my-2">
-                    Mail:{" "}
-                    <a
-                      href=""
-                      target="_blank"
-                      rel="noreferrer"
-                      className="underline"
-                    >
-                      sohamshah456@gmail.com
-                    </a>
-                  </li>
-                  <li className="my-2">
-                    Github:{" "}
-                    <a
-                      href=""
-                      target="_blank"
-                      rel="noreferrer"
-                      className="underline"
-                    >
-                      @sohamsshah
-                    </a>
-                  </li>
-                  <li className="my-2">
-                    Twitter:{" "}
-                    <a
-                      href=""
-                      target="_blank"
-                      rel="noreferrer"
-                      className="underline"
-                    >
-                      @sohamsshah_
-                    </a>
-                  </li>
-
-                  <li className="my-2">
-                    Linkedin:{" "}
-                    <a
-                      href=""
-                      target="_blank"
-                      rel="noreferrer"
-                      className="underline"
-                    >
-                      in/sohamshah456
-                    </a>
-                  </li>
-                </ul>
+          
               </div>
             </div>
           </div>

@@ -14,7 +14,7 @@ const Footer = () => {
           <li className="m-2">
             <a
               className="hover:text-blue-900"
-              href="https://twitter.com/sohamsshah_"
+              href="https://twitter.com/SamyakShah_18"
               target="_blank"
               rel="noreferrer"
             >
@@ -24,7 +24,7 @@ const Footer = () => {
           <li className="m-2">
             <a
               className="hover:text-blue-900"
-              href="https://github.com/sohamsshah"
+              href="https://github.com/samyakshah3008"
               target="_blank"
               rel="noreferrer"
             >
@@ -34,7 +34,7 @@ const Footer = () => {
           <li className="m-2">
             <a
               className="hover:text-blue-900"
-              href="https://www.linkedin.com/in/sohamshah456/"
+              href="https://www.linkedin.com/in/samyakshah3008/"
               target="_blank"
               rel="noreferrer"
             >
@@ -44,7 +44,7 @@ const Footer = () => {
           <li className="m-2">
             <a
               className="hover:text-blue-900"
-              href="mailto:sohamshah456@gmail.com"
+              href="mailto:samyakshah3008@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
@@ -53,11 +53,11 @@ const Footer = () => {
           </li>
         </ul>
         <div className="text-gray-600 dark:text-gray-400 flex flex-wrap">
-          <div>Copyright © 2021 </div>
+          <div>Copyright © 2023 </div>
           <div>
             •{" "}
             <Link href="/">
-              <a>Soham 👨‍💻</a>
+              <a>Samyak 🚀</a>
             </Link>
           </div>
         </div>

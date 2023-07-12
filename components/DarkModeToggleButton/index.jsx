@@ -3,6 +3,7 @@ import { MdiWeatherSunny, MdiMoonWaningCrescent } from "../../assets/DarkMode";
 
 const DarkModeToggleButton = () => {
   const { theme, setTheme } = useTheme();
+
   return (
     <div>
       <button

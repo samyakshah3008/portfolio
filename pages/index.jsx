@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Soham Shah</title>
-        <meta name="description" content="Soham Shah" />
+        <title>Samyak Shah</title>
+        <meta name="description" content="Samyak Shah" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -21,24 +21,15 @@ export default function Home() {
                 Samyak Shah 👋
               </h1>
               <p className="text-xl pb-4">
-                Hey, there! Welcome to my Website. I am Soham Shah - Software
+                Hey, there! Welcome to my Website. I am Samyak Shah - Aspiring Software
                 Engineer based in India.
               </p>
-              <p className="text-xl">
-                I work as a Software Engineer (Frontend) at <a rel="noreferrer" href="https://heymarvin.com/" target="_blank"> Marvin </a>.
+            
+              <p className="text-xl pb-4">
+              I am a second year student, currently undertaking my Bachelor in Computer Science and Engineering. My experience revolves around building full-stack services with special interest in frontend engineering. I was a previous Frontend Engineer (Intern) at <a class="text-blue-600" rel="noreferrer" href="https://dicot.tech/" target="_blank">Dicot Innovations</a> and <a class="text-blue-600" rel="noreferrer" href="https://procred.ai/" target="_blank">ProCred.ai</a> 🚀.
               </p>
               <p className="text-xl pb-4">
-                My experience revolves around developing full-stack
-                applications, frontend web-tooling, npm-packages and libraries
-                and design systems. I also have research exposure in the areas
-                of articifial intelligence and robotics and published patent and
-                research work around it.
-              </p>
-              <p className="text-xl pb-4">
-                I have been involved with Google Developer Student Clubs- GHRCE
-                and Adani Institute of Innovation Hub (AIIH) and have organized
-                workshops, talks and hackathons for the community. I am also a
-                passionate open source contributor and tech speaker.
+              I am also a passionate open-source contributor. Recently I got promoted to member of open source company <a class="text-blue-600" rel="noreferrer" href="https://layer5.io/community/members/samyak-shah" target="_blank">Layer5</a> for my constant impactful contributions. Previously I have worked with <a class="text-blue-600" rel="noreferrer"  href="https://moja.global/" target="_blank">Moja Global</a> and <a class="text-blue-600" rel="noreferrer" href="https://www.realdevsquad.com/" target="_blank">Real Dev Squad</a> as an open source contributor. Being a community enthusiast, I am a <a class="text-blue-600" rel="noreferrer" href=" https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c3dae251-5431-4b09-99ad-df62716d044e" target="_blank">Microsoft Student Ambassador</a>. from Gujarat, India.💙
               </p>
               <p className="text-lg pb-10">
                 <Link href="/about">
@@ -53,11 +44,11 @@ export default function Home() {
               <ul className="text-xl pb-4">
                 <li className="my-2">
                   <span className="underline">Languages</span>: JavaScript,
-                  TypeScript, Java, Python, HTML5, CSS3{" "}
+                  TypeScript, Java, Python, HTML5, CSS3
                 </li>
                 <li className="my-2">
                   <span className="underline">Frameworks and Libraries</span>:
-                  React.js, Next, Node, Express, Tensorflow, OpenCV
+                  React.js, Next, Node, Express, Nest
                 </li>
                 <li className="my-2">
                   <span className="underline">Platforms</span>: Git (Github and
@@ -65,11 +56,11 @@ export default function Home() {
                 </li>
                 <li className="my-2">
                   <span className="underline">Database</span>: MongoDB, SQL,
-                  PostgreSQL
+                  GraphQL
                 </li>
                 <li className="my-2">
                   <span className="underline">Design Libraries</span>:
-                  TailwindCSS, Bootstrap, MaterialUI, AntDesign
+                  TailwindCSS, Bootstrap, MaterialUI, ChakraUI
                 </li>
               </ul>
               <p className="text-lg pb-10">
@@ -80,51 +71,61 @@ export default function Home() {
             </div>
             <div className="border-b-2">
               <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-bold">
-                Recent Tech Talks 🎙
+                Open Source Work 🚀
               </p>
               <ul className="text-xl pb-4">
                 <li className="my-2">
+                <span className="font-500"> Contributor and Member at: </span>{" "}
                   <span>
                     <a
                       className="underline"
-                      href="https://www.youtube.com/watch?v=bFkSf6g1vms&t=1984s"
+                      href="https://layer5.io/community/members/samyak-shah"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      {" "}
-                      PULL REQUEST (Open source Workshop)
+                      Layer5
                     </a>
                   </span>
-                  <span className="font-500"> @GDSC-GHRCE</span>{" "}
+                
                 </li>
                 <li className="my-2">
+                <span className="font-500">Contributor and Member at: </span>
                   <span>
                     <a
                       className="underline"
-                      href="https://www.youtube.com/watch?t=4112&v=v13fju8L-Q8&feature=youtu.be"
+                      href="http://meshery.io/"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      {" "}
-                      UNBUNDLED: The Future of Frontend Tooling
+                      Meshery
                     </a>
                   </span>
-                  <span className="font-500"> @ReactNativeBLR</span>{" "}
                 </li>
                 <li className="my-2">
+                <span className="font-500">Contributor at: </span>{" "}
                   <span>
                     <a
                       className="underline"
-                      href="https://www.youtube.com/watch?v=mp3SIa1H1rI"
+                      href="https://www.realdevsquad.com/"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      {" "}
-                      Building, testing and Publishing your own React Component
-                      Library
+                   Real Dev Squad
                     </a>
                   </span>
-                  <span className="font-500"> @ReactJSBangalore</span>{" "}
+                </li>
+                <li className="my-2">
+                <span className="font-500">Contributor at: </span>{" "}
+                  <span>
+                    <a
+                      className="underline"
+                      href="https://moja.global/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                   Moja Global
+                    </a>
+                  </span>
                 </li>
               </ul>
               <p className="text-lg pb-10">
@@ -142,12 +143,11 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://sohamsshah.hashnode.dev/top-12-tips-on-how-to-excel-at-your-developer-job"
+                      href="https://samyakshah.hashnode.dev/async-and-defer-attributes"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      {" "}
-                      Top 12 Tips on how to excel 🚀at your developer job!
+                    Async and Defer attributes
                     </a>
                   </span>
                 </li>
@@ -155,12 +155,11 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://sohamsshah.hashnode.dev/know-how-git-works-behind-the-scenes-aa40567082ba"
+                      href="https://samyakshah.hashnode.dev/content-delivery-networks"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      {" "}
-                      Know how Git works: Behind the Scenes!🤯
+                      Content Delivery Networks
                     </a>
                   </span>
                 </li>
@@ -168,12 +167,12 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://sohamsshah.hashnode.dev/7-open-source-spirits-you-must-know"
+                      href="https://samyakshah.hashnode.dev/pitfalls-to-avoid-as-a-react-beginner"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      {" "}
-                      7 Open Source Spirits you must know!
+                  
+                      Pitfalls to avoid as a react begineer
                     </a>
                   </span>
                 </li>
@@ -181,7 +180,7 @@ export default function Home() {
               <p className="text-lg pb-10">
                 <a
                   className="hover:underline"
-                  href="https://sohamsshah.hashnode.dev/"
+                  href="https://samyakshah.hashnode.dev/"
                   target="_blank"
                   rel="noreferrer"
                 >

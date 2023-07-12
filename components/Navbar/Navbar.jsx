@@ -12,7 +12,7 @@ const Navbar = () => {
           <a>
             <Image
               className="rounded-full"
-              src="/dp.jpg"
+              src="/new-profile-pic.png"
               width="70"
               height="70"
               alt="navbar-dp"
@@ -21,6 +21,9 @@ const Navbar = () => {
         </Link>
       </div>
       <ul className="flex flex-wrap lg:justify-center lg:py-0 pt-4 text-xl">
+      <li className="mx-3 hover:underline">
+          <Link href="/">Home</Link>
+        </li>
         <li className="mx-3 hover:underline">
           <NavLink href="/about">About</NavLink>
         </li>

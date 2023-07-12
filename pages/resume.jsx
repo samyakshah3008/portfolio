@@ -6,7 +6,7 @@ export default function Resume() {
   return (
     <div>
       <Head>
-        <title>Soham Shah | Resume</title>
+        <title>Samyak Shah | Resume</title>
         <meta name="description" content="Soham Shah" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
