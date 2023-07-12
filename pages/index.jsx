@@ -18,7 +18,7 @@ export default function Home() {
           <div className="text-gray-600 dark:text-gray-400">
             <div className="mt-2 border-b-2">
               <h1 className="text-6xl font-bold pb-6 text-gray-900 dark:text-gray-200">
-                Soham Shah 👋
+                Samyak Shah 👋
               </h1>
               <p className="text-xl pb-4">
                 Hey, there! Welcome to my Website. I am Soham Shah - Software
