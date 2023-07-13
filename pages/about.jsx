@@ -8,7 +8,7 @@ export default function About() {
   return (
     <div>
       <Head>
-        <title>Soham Shah | About</title>
+        <title>Samyak Shah | About</title>
         <meta name="description" content="Soham Shah" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -25,7 +25,7 @@ export default function About() {
             <div className="flex md:flex-row flex-col py-10 justify-around items-start">
               <div className="w-full border-2 p-4 shadow-md rounded-md border-50">
                 <Image
-                  src="/front-profile-pic.png"
+                  src="/new-profile-pic.png"
                   height="300"
                   width="300"
                   style={{objectFit: "cover"}}
