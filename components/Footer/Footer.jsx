@@ -16,7 +16,7 @@ const Footer = () => {
               className="hover:text-blue-900"
               href="https://twitter.com/SamyakShah_18"
               target="_blank"
-              rel="noreferrer"
+              
             >
               <MdiTwitter />
             </a>
@@ -26,7 +26,7 @@ const Footer = () => {
               className="hover:text-blue-900"
               href="https://github.com/samyakshah3008"
               target="_blank"
-              rel="noreferrer"
+              
             >
               <MdiGithub />
             </a>
@@ -36,7 +36,7 @@ const Footer = () => {
               className="hover:text-blue-900"
               href="https://www.linkedin.com/in/samyakshah3008/"
               target="_blank"
-              rel="noreferrer"
+              
             >
               <MdiLinkedin />
             </a>
@@ -46,7 +46,7 @@ const Footer = () => {
               className="hover:text-blue-900"
               href="mailto:samyakshah3008@gmail.com"
               target="_blank"
-              rel="noreferrer"
+              
             >
               <MdiEmail />
             </a>

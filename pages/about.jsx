@@ -56,7 +56,7 @@ export default function About() {
               <div className="md:pl-16 md:pt-0 pl-0 pt-8 pr-4 md:pr-16">
                 <h2 className="text-3xl font-bold pb-4 text-gray-900 dark:text-gray-200">
                   {" "}
-                  Hi 👋 I&apos;m Samyak Shah
+                  Hi 👋 I'm Samyak Shah
                 </h2>
                 <p className="text-lg pb-4">
                 I apply best practices to software development, design, and delivery. I'm a polyglot programmer who is able to work with diverse technologies.

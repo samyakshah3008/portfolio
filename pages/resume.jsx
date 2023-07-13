@@ -28,10 +28,10 @@ export default function Resume() {
               What am I upto?
               </p>
               <ul className="text-xl pb-4 pl-6 list-disc">
-              <li className="my-4">I am an Open-Source Contributor, Member and Community Manager at <a class="text-blue-600" rel="noreferrer" href="https://layer5.io/community/members/samyak-shah" target="_blank">Layer5</a> and <a class="text-blue-600" rel="noreferrer" href="https://meshery.io/" target="_blank">Meshery</a> </li>
-              <li className="my-4">I contribute to various open-source projects at <a class="text-blue-600" rel="noreferrer"  href="https://moja.global/" target="_blank">Moja Global</a> and <a class="text-blue-600" rel="noreferrer" href="https://www.realdevsquad.com/" target="_blank">Real Dev Squad</a> where I contribute across multiple verticals. </li>
-              <li className="my-4">I have done couple of internships as frontend engineer at <a class="text-blue-600" rel="noreferrer" href="https://dicot.tech/" target="_blank">Dicot Innovations</a> and <a class="text-blue-600" rel="noreferrer" href="https://procred.ai/" target="_blank">ProCred.ai</a> </li>
-              <li className="my-4">I am a Beta <a class="text-blue-600" rel="noreferrer" href=" https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c3dae251-5431-4b09-99ad-df62716d044e" target="_blank">Microsoft Learn Student Ambassador</a> and Web Dev Tech Lead at Phoenix club in my University. </li>
+              <li className="my-4">I am an Open-Source Contributor, Member and Community Manager at <a class="text-blue-600"  href="https://layer5.io/community/members/samyak-shah" target="_blank">Layer5</a> and <a class="text-blue-600"  href="https://meshery.io/" target="_blank">Meshery</a> </li>
+              <li className="my-4">I contribute to various open-source projects at <a class="text-blue-600"   href="https://moja.global/" target="_blank">Moja Global</a> and <a class="text-blue-600"  href="https://www.realdevsquad.com/" target="_blank">Real Dev Squad</a> where I contribute across multiple verticals. </li>
+              <li className="my-4">I have done couple of internships as frontend engineer at <a class="text-blue-600"  href="https://dicot.tech/" target="_blank">Dicot Innovations</a> and <a class="text-blue-600"  href="https://procred.ai/" target="_blank">ProCred.ai</a> </li>
+              <li className="my-4">I am a Beta <a class="text-blue-600"  href=" https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c3dae251-5431-4b09-99ad-df62716d044e" target="_blank">Microsoft Learn Student Ambassador</a> and Web Dev Tech Lead at Phoenix club in my University. </li>
               <li className="my-4">I am currently completing my Bachelor's (2nd Year) in Computer Science and Engineering from Lok Jagruti University. </li>
               </ul>
             </div>
@@ -63,7 +63,7 @@ export default function Resume() {
               className="text-blue-600"
               href="https://github.com/samyakshah3008"
               target="_blank"
-              rel="noreferrer"
+              
             >
              GitHub
             </a> to see contributions to various open source companies. </li>
@@ -91,7 +91,7 @@ export default function Resume() {
               className="text-blue-600"
               href="https://www.linkedin.com/in/samyakshah3008/"
               target="_blank"
-              rel="noreferrer"
+              
             >
              LinkedIn Recommendation
             </a> (Please hit Ctrl + End to head over to Recommendation section. ) </li>
