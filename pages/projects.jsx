@@ -1,13 +1,12 @@
 import Head from "next/head";
 import Navbar from "./../components/Navbar/Navbar";
 import Footer from "./../components/Footer/Footer";
-import { MdiGithub } from "../assets/Socials";
 
 export default function Projects() {
   return (
     <div>
       <Head>
-        <title>Soham Shah | Projects</title>
+        <title>Samyak Shah | Projects</title>
         <meta name="description" content="Soham Shah" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -27,218 +26,131 @@ export default function Projects() {
                 that gave me dopamine hits during their development.
               </p>
             </div>
+            
             <div className="border-b-2">
               <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-bold">
-                Ongoing 🚶‍♂️
-              </p>
-              <ul className="pl-6 text-xl pb-4 list-disc">
-                <li className="my-4">
-                  <h2 className="font-medium underline text-2xl mb-2">
-                    OpenSwags.io
-                  </h2>
-                  <p className="mb-2">
-                    <b>OpenSwags.io</b> is an e-commerce platform for Open
-                    Source Enthusiasts to buy swags from virtual currency which
-                    is earned by contributing to Open Source. Implemented
-                    authentication, cart, wishlist, checkout and dynamic product
-                    and project listing features.
-                  </p>
-                  <p className="mb-2">
-                    <span className="font-medium">Built With</span>: React,
-                    MongoDB, Express, Node
-                  </p>
-                </li>
-                <li className="my-4">
-                  <h2 className="font-medium underline text-2xl mb-2">
-                    askNeoG
-                  </h2>
-                  <p className="mb-2">
-                    <b>askNeoG</b> is an internal stackoverflow for the students
-                    of NeoG Camp Cohort 22. It consists of features such as
-                    authentication, upvote, ask questions, comment, reply,
-                    topics search, create teams etc.
-                  </p>
-                  <p className="mb-2">
-                    <span className="font-medium">Built With</span>: Next.js,
-                    Express.js, TypeScript, MongoDB
-                  </p>
-                </li>
-              </ul>
-            </div>
-            <div className="border-b-2">
-              <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-bold">
-                Built ⌨🔧
+                Side Projects ⌨🔧
               </p>
               <ul className="text-xl pb-4 pl-6 list-disc">
                 <li className="my-4">
                   <h2 className="font-medium underline text-2xl mb-2">
-                    mockBee
+                    ECommerce
                   </h2>
                   <p className="mb-2">
-                    <span className="hover:underline font-medium">
-                      <a href="https://github.com/neogcamp/mockBee">mockBee</a>
-                    </span>{" "}
-                    gives you Fake Backend APIs for you to build awesome
-                    Frontend Projects! It is a collection of fine-crafted APIs
-                    for awesome web applications such as e-commerce,
-                    video-library, social media etc. It is easily configurable,
-                    highly customizable and all app APIs are packed with cool
-                    features 🔥
+                  <span className="text-blue-600">
+                      <a target="_blank" href="https://github.com/samyakshah3008/TripleS-Store-react">
+                       - TripleS Store:
+                      </a>
+                    </span> The store's home page displays featured categories that you can click on to navigate to specific product categories. It is a product listing page that shows all the products with filter options.</p>
+                  <p className="mb-2">
+                   - On this page, you can add or remove products from your cart or wishlist. Additionally, there are filter and sort functionalities available, allowing you to filter products by price, category, availability, delivery speed, and ratings.  
                   </p>
                   <p className="mb-2">
-                    Also, MockBee is still actively developed and more and more
-                    new APIs are being added to the project for helping more and
-                    more frontend devs in the community!🚀
+                  - Furthermore, there is an authentication feature along with the option for guest login. 
                   </p>
                   <p className="mb-2">
-                    <span className="font-medium">Built With</span>: MirageJS,
-                    Docusaurus, React, npx, prompt, JavaScript, Rollup
+                    <span className="font-medium">Built With</span>: ReactJS, React Router, TripleS UI, Mock backend
                   </p>
                 </li>
                 <li className="my-4">
                   <h2 className="font-medium underline text-2xl mb-2">
-                    Sodium UI Component Library
+                   OTT Platform
                   </h2>
                   <p className="mb-2">
-                    <span className="hover:underline font-medium">
-                      <a href="https://github.com/sohamsshah/sodium-ui">
-                        Sodium UI
+                    <span className="text-blue-600">
+                      <a target="_blank" href="https://github.com/samyakshah3008/triples-player-react">
+                      - TripleS Player: 
                       </a>
-                    </span>{" "}
-                    is a frontend react-based web component library similar to
-                    Material UI or Chakra UI. Components are built by following
-                    Atomic Design principles. Bundling of the Library is
-                    performed with Rollup. The Web Components are
-                    well-documented accompanied by a Docsite; created with React
-                    from scratch.
+                    </span>
+                    {" "} The player's video listing page showcases featured categories. By clicking on a category, you will be directed to the corresponding videos.</p>
+                  <p className="mb-2">
+                   - On this page, you have the ability to like or dislike videos and add or remove them from your watch later list. Additionally, you can add or remove videos from your viewing history. Moreover, you can create a playlist consisting of your favorite videos. When you click on any video from the displayed videos, you will be taken to a single video listing page. 
                   </p>
                   <p className="mb-2">
-                    <span className="font-medium">Built With</span>: React,
-                    Storybook, NPM, Rollup, CSS
+                  - Furthermore, there is an authentication feature along with the option for guest login. 
+                  </p>
+                  <p className="mb-2">
+                    <span className="font-medium">Built With</span>: ReactJS, React Router, TripleS UI, Mock backend
+                 
+                  </p>
+             
+                </li>
+                <li className="my-4">
+                  <h2 className="font-medium underline text-2xl mb-2">
+                    Social Media 
+                  </h2>
+                  <p className="mb-2">
+                    <span className="text-blue-600">
+                      <a target="_blank" href="https://github.com/samyakshah3008/TripleS-Chat">
+                       - TripleS Chat:
+                      </a>
+                    </span>
+                    {" "} is a web application offers a range of features to enhance your experience. You can follow or unfollow other users to stay updated with their posts.
+                  </p>
+                  <p className="mb-2">
+                  - Express your appreciation by liking posts and bookmarking those that capture your interest. You can also create and edit your own posts to share your thoughts and experiences with the community.
+                  </p>
+                  <p className="mb-2">- To help you discover popular content, the web app provides a filtering option based on trending data. Additionally, the platform incorporates form validation to ensure the accuracy and integrity of the information you provide.</p>
+                  <p className="mb-2">- Your profile serves as a personal space where you can showcase your interests and engage with other users. Moreover, the application offers a convenient guest login feature for quick access and exploration.</p>
+                  <p className="mb-2">
+                    <span className="font-medium">Built With</span>: React, Redux Toolkit, Chakra UI, Mock backend using mockbee, React Router
                   </p>
                 </li>
                 <li className="my-4">
                   <h2 className="font-medium underline text-2xl mb-2">
-                    Sodium Infinite Scroll Component
+                    Component Library
                   </h2>
                   <p className="mb-2">
-                    <span className="hover:underline font-medium">
-                      <a href="https://github.com/sohamsshah/sodium-infinite-scroller">
-                        sodium-infinite-scroller
+                    <span className="text-blue-600">
+                      <a target="_blank" href="https://github.com/samyakshah3008/TripleS-UI">
+                     - TripleS UI: 
                       </a>
                     </span>{" "}
-                    is a simple, zero-dependency and awesome React Infinite ♾
-                    Scrolling Component based on Intersection Observer API.
-                    Powered by Vite.js
+                    Light weight Component Library having 15 inbuilt components similar to tailwind CSS, a mini version of it. 
                   </p>
                   <p className="mb-2">
-                    <span className="font-medium">Built With</span>: React,
-                    IntersectionObserverAPI, Vite.js
+                    <span className="font-medium">Built With</span>: HTML5, CSS3 
                   </p>
                 </li>
                 <li className="my-4">
                   <h2 className="font-medium underline text-2xl mb-2">
-                    REStream
+                    Mini Projects
                   </h2>
                   <p className="mb-2">
-                    <span className="hover:underline font-medium">
-                      <a href="https://github.com/sohamsshah/REStream">
-                        REStream
+                    <span className="text-blue-600">
+                      <a target="_blank" href="https://samyakshah-portfolio.netlify.app/projects.html">
+                        fun mini projects
                       </a>
                     </span>{" "}
-                    is a full stack video streaming platform for researchers
-                    which is distraction-free and niche-specific app for budding
-                    researchers. Configured features such as follow, like
-                    videos, create and add to playlist, browse by categories,
-                    search history.
+                    like profit/loss in stock market checker, palindrome checker, lucky birthday checker, triangle quiz app, cash registor, movie recommendation, emoji meaning, english to minion language webapps! 
                   </p>
                   <p className="mb-2">
-                    <span className="font-medium">Built With</span>: React,
-                    Express, MongoDB, Node, Atomic Design
-                  </p>
-                </li>
-                <li className="my-4">
-                  <h2 className="font-medium underline text-2xl mb-2">
-                    pixelsHash
-                  </h2>
-                  <p className="mb-2">
-                    <span className="hover:underline font-medium">
-                      <a href="https://github.com/sohamsshah/pixelsHash">
-                        pixelsHash
-                      </a>
-                    </span>{" "}
-                    is the Go-to place for High Quality, Beautiful and
-                    Picturesque 3-D matrices of Pixels - hashed perfectly for
-                    you to describe your thoughts in high resolution! 🖼⚡ You
-                    can view, search and download everything that you want!
-                    Powered By Unsplash! It has features such as infinite
-                    scrolling, save search history, great lighthouse score,
-                    download pictures, profanity filter, toggle view and many
-                    more!
-                  </p>
-                  <p className="mb-2">
-                    <span className="font-medium">Built With</span>: Next,
-                    Unsplash API, React Skeleton, React Select, TailwindCSS
+                    <span className="font-medium">Built With</span>: HTML5, CSS3, VanillaJS, ReactJS
                   </p>
                 </li>
               </ul>
             </div>
             <div className="border-b-2">
               <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-bold">
-                Contributed 💖
+                Open Source Engineering with:  💖
               </p>
               <ul className="text-xl pb-4">
                 <li className="my-4">
                   <h2 className="font-medium text-2xl mb-2">
-                    caMicroscope | ActiveloopAI | Remotion
+                    Layer5 | Meshery | Moja Global | Real Dev Squad
                   </h2>
-                  <h2 className="font-medium text-2xl mb-2">
-                    Next | React-Bootstrap | MDN Web Docs
-                  </h2>
+                  <p className="mb-2">
+                    <span className="text-blue-600">
+                      <a target="_blank" href="https://github.com/samyakshah3008">
+                       - Checkout all my open source contributions on Github
+                      </a>
+                      </span>
+                      </p>
+                 
                 </li>
               </ul>
             </div>
-            <div className="border-b-2">
-              <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-bold">
-                Maintaining 🤓
-              </p>
-              <ul className="pl-6 text-xl pb-4 list-disc">
-                <li className="my-4">
-                  <h2 className="font-medium underline text-2xl mb-2">
-                    Rotten_Scripts
-                  </h2>
-                  <p className="mb-2">
-                    <span className="hover:underline font-medium">
-                      <a href="https://github.com/HarshCasper/Rotten-Scripts">
-                        Rotten_Scripts
-                      </a>
-                    </span>{" "}
-                    contains amazing and awesome scripts written in Python,
-                    JavaScript, Bash, Powershell, and more. Major work revolves
-                    around creating new issues, helping contributors with
-                    existing features/bugs, reviewing PRs and overall
-                    maintaining the repository.
-                  </p>
-                </li>
-                <li className="my-4">
-                  <h2 className="font-medium underline text-2xl mb-2">
-                    JavaScriptONLY
-                  </h2>
-
-                  <p className="mb-2">
-                    <span className="hover:underline font-medium">
-                      <a href="https://github.com/codesONLY/JavaScriptONLY">
-                        JavaScriptONLY
-                      </a>
-                    </span>{" "}
-                    is a well-curated content for refering/learning JavaScript.
-                    Have added JavaScript Notes, Code Snippets, Resources,
-                    Books, Interview Questions and a lot more. Generally I share
-                    and document my learnings here, together with the community.
-                  </p>
-                </li>
-              </ul>
-            </div>
+           
           </div>
         </div>
         <Footer />
