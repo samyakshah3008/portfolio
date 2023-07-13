@@ -71,7 +71,7 @@ export default function Home() {
             </div>
             <div className="border-b-2">
               <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-bold">
-                Open Source Work 🚀
+                Open Source Work and Side Projects 🚀
               </p>
               <ul className="text-xl pb-4">
                 <li className="my-2">
@@ -129,7 +129,7 @@ export default function Home() {
                 </li>
               </ul>
               <p className="text-lg pb-10">
-                <Link href="/talks">
+                <Link href="/projects">
                   <a className="hover:underline">Learn More...</a>
                 </Link>
               </p>
