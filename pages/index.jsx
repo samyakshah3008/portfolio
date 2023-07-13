@@ -26,10 +26,10 @@ export default function Home() {
               </p>
             
               <p className="text-xl pb-4">
-              I am a second year student, currently undertaking my Bachelor in Computer Science and Engineering. My experience revolves around building full-stack services with special interest in frontend engineering. I was a previous Frontend Engineer (Intern) at <a className="text-blue-600"  href="https://dicot.tech/" target="_blank">Dicot Innovations</a> and <a className="text-blue-600"  href="https://procred.ai/" target="_blank">ProCred.ai</a> 🚀.
+              I am a second year student, currently undertaking my Bachelor in Computer Science and Engineering. My experience revolves around building full-stack services with special interest in frontend engineering. I was a previous Frontend Engineer (Intern) at <a className="text-blue-600"  href="https://dicot.tech/" target="_blank" rel="noreferrer">Dicot Innovations</a> and <a className="text-blue-600"  href="https://procred.ai/" target="_blank" rel="noreferrer">ProCred.ai</a> 🚀.
               </p>
               <p className="text-xl pb-4">
-              I am also a passionate open-source contributor. Recently I got promoted to member of open source company <a className="text-blue-600"  href="https://layer5.io/community/members/samyak-shah" target="_blank">Layer5</a> for my constant impactful contributions. Previously I have worked with <a className="text-blue-600"   href="https://moja.global/" target="_blank">Moja Global</a> and <a className="text-blue-600"  href="https://www.realdevsquad.com/" target="_blank">Real Dev Squad</a> as an open source contributor. Being a community enthusiast, I am a <a className="text-blue-600"  href=" https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c3dae251-5431-4b09-99ad-df62716d044e" target="_blank">Microsoft Student Ambassador</a>. from Gujarat, India.💙
+              I am also a passionate open-source contributor. Recently I got promoted to member of open source company <a className="text-blue-600"  href="https://layer5.io/community/members/samyak-shah" target="_blank" rel="noreferrer">Layer5</a> for my constant impactful contributions. Previously I have worked with <a className="text-blue-600"   href="https://moja.global/" target="_blank" rel="noreferrer">Moja Global</a> and <a className="text-blue-600"  href="https://www.realdevsquad.com/" target="_blank" rel="noreferrer">Real Dev Squad</a> as an open source contributor. Being a community enthusiast, I am a <a className="text-blue-600"  href=" https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c3dae251-5431-4b09-99ad-df62716d044e" target="_blank" rel="noreferrer">Microsoft Student Ambassador</a>. from Gujarat, India.💙
               </p>
               <p className="text-lg pb-10">
                 <Link href="/about">
@@ -81,7 +81,7 @@ export default function Home() {
                       className="underline"
                       href="https://layer5.io/community/members/samyak-shah"
                       target="_blank"
-                      
+                      rel="noreferrer"
                     >
                       Layer5
                     </a>
@@ -95,7 +95,7 @@ export default function Home() {
                       className="underline"
                       href="http://meshery.io/"
                       target="_blank"
-                      
+                      rel="noreferrer"
                     >
                       Meshery
                     </a>
@@ -108,7 +108,7 @@ export default function Home() {
                       className="underline"
                       href="https://www.realdevsquad.com/"
                       target="_blank"
-                      
+                      rel="noreferrer"
                     >
                    Real Dev Squad
                     </a>
@@ -121,7 +121,7 @@ export default function Home() {
                       className="underline"
                       href="https://moja.global/"
                       target="_blank"
-                      
+                      rel="noreferrer"
                     >
                    Moja Global
                     </a>
@@ -145,7 +145,7 @@ export default function Home() {
                       className="underline"
                       href="https://samyakshah.hashnode.dev/async-and-defer-attributes"
                       target="_blank"
-                      
+                      rel="noreferrer"
                     >
                     Async and Defer attributes
                     </a>
@@ -157,7 +157,7 @@ export default function Home() {
                       className="underline"
                       href="https://samyakshah.hashnode.dev/content-delivery-networks"
                       target="_blank"
-                      
+                      rel="noreferrer"
                     >
                       Content Delivery Networks
                     </a>
@@ -169,7 +169,7 @@ export default function Home() {
                       className="underline"
                       href="https://samyakshah.hashnode.dev/pitfalls-to-avoid-as-a-react-beginner"
                       target="_blank"
-                      
+                      rel="noreferrer"
                     >
                   
                       Pitfalls to avoid as a react begineer
@@ -182,7 +182,7 @@ export default function Home() {
                   className="hover:underline"
                   href="https://samyakshah.hashnode.dev/"
                   target="_blank"
-                  
+                  rel="noreferrer"
                 >
                   Learn More...
                 </a>

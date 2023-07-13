@@ -37,7 +37,7 @@ const Navbar = () => {
           <a
             href="https://samyakshah.hashnode.dev/"
             target="_blank"
-            
+            rel="noreferrer"
           >
             Blog
           </a>

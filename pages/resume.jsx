@@ -28,11 +28,11 @@ export default function Resume() {
               What am I upto?
               </p>
               <ul className="text-xl pb-4 pl-6 list-disc">
-              <li className="my-4">I am an Open-Source Contributor, Member and Community Manager at <a class="text-blue-600"  href="https://layer5.io/community/members/samyak-shah" target="_blank">Layer5</a> and <a class="text-blue-600"  href="https://meshery.io/" target="_blank">Meshery</a> </li>
-              <li className="my-4">I contribute to various open-source projects at <a class="text-blue-600"   href="https://moja.global/" target="_blank">Moja Global</a> and <a class="text-blue-600"  href="https://www.realdevsquad.com/" target="_blank">Real Dev Squad</a> where I contribute across multiple verticals. </li>
-              <li className="my-4">I have done couple of internships as frontend engineer at <a class="text-blue-600"  href="https://dicot.tech/" target="_blank">Dicot Innovations</a> and <a class="text-blue-600"  href="https://procred.ai/" target="_blank">ProCred.ai</a> </li>
-              <li className="my-4">I am a Beta <a class="text-blue-600"  href=" https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c3dae251-5431-4b09-99ad-df62716d044e" target="_blank">Microsoft Learn Student Ambassador</a> and Web Dev Tech Lead at Phoenix club in my University. </li>
-              <li className="my-4">I am currently completing my Bachelor's (2nd Year) in Computer Science and Engineering from Lok Jagruti University. </li>
+              <li className="my-4">I am an Open-Source Contributor, Member and Community Manager at <a className="text-blue-600"  href="https://layer5.io/community/members/samyak-shah" target="_blank" rel="noreferrer">Layer5</a> and <a className="text-blue-600"  href="https://meshery.io/" target="_blank" rel="noreferrer">Meshery</a> </li>
+              <li className="my-4">I contribute to various open-source projects at <a className="text-blue-600"   href="https://moja.global/" target="_blank" rel="noreferrer">Moja Global</a> and <a className="text-blue-600"  href="https://www.realdevsquad.com/" target="_blank" rel="noreferrer">Real Dev Squad</a> where I contribute across multiple verticals. </li>
+              <li className="my-4">I have done couple of internships as frontend engineer at <a className="text-blue-600"  href="https://dicot.tech/" target="_blank" rel="noreferrer">Dicot Innovations</a> and <a className="text-blue-600"  href="https://procred.ai/" target="_blank" rel="noreferrer">ProCred.ai</a> </li>
+              <li className="my-4">I am a Beta <a className="text-blue-600"  href=" https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c3dae251-5431-4b09-99ad-df62716d044e" target="_blank" rel="noreferrer">Microsoft Learn Student Ambassador</a> and Web Dev Tech Lead at Phoenix club in my University. </li>
+              <li className="my-4">I am currently completing my Bachelor (2nd Year) in Computer Science and Engineering from Lok Jagruti University. </li>
               </ul>
             </div>
             <div className="border-b-2">
@@ -63,7 +63,7 @@ export default function Resume() {
               className="text-blue-600"
               href="https://github.com/samyakshah3008"
               target="_blank"
-              
+              rel="noreferrer"
             >
              GitHub
             </a> to see contributions to various open source companies. </li>
@@ -78,20 +78,20 @@ export default function Resume() {
                   <h3>October 2022 - May 2023</h3>
                   <ul className="my-2">
                     <li className="my-4">
-                      - Integrated Discord, Hashnode, YouTube, GitHub with their developer's API for ProCred which aims to fetch the registered user's data to build the core product of procred, an unique resume which they can showcase to hiring companies. 
+                      - Integrated Discord, Hashnode, YouTube, GitHub with their developer API for ProCred which aims to fetch the registered user data to build the core product of procred, an unique resume which they can showcase to hiring companies. 
                     </li>
                  
                     <li className="my-4">
                       - Built a platform where team can maintain the Google Sheet, edit, view, filter from the webapp instead of Google Sheet.  
                     </li>
                     <li className="my-4">
-                      - Developed the ProCred's website and involvement in the marketing team.
+                      - Developed the ProCred website and involvement in the marketing team.
                     </li>
                     <li className="my-4"> - You can checkout the testimonial which I got from my Senior Jerry Kurian:   <a
               className="text-blue-600"
               href="https://www.linkedin.com/in/samyakshah3008/"
               target="_blank"
-              
+              rel="noreferrer"
             >
              LinkedIn Recommendation
             </a> (Please hit Ctrl + End to head over to Recommendation section. ) </li>

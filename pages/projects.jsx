@@ -38,10 +38,10 @@ export default function Projects() {
                   </h2>
                   <p className="mb-2">
                   <span className="text-blue-600">
-                      <a target="_blank" href="https://github.com/samyakshah3008/TripleS-Store-react">
+                      <a target="_blank" rel="noreferrer" href="https://github.com/samyakshah3008/TripleS-Store-react">
                        - TripleS Store:
                       </a>
-                    </span> The store's home page displays featured categories that you can click on to navigate to specific product categories. It is a product listing page that shows all the products with filter options.</p>
+                    </span> The store home page displays featured categories that you can click on to navigate to specific product categories. It is a product listing page that shows all the products with filter options.</p>
                   <p className="mb-2">
                    - On this page, you can add or remove products from your cart or wishlist. Additionally, there are filter and sort functionalities available, allowing you to filter products by price, category, availability, delivery speed, and ratings.  
                   </p>
@@ -58,11 +58,11 @@ export default function Projects() {
                   </h2>
                   <p className="mb-2">
                     <span className="text-blue-600">
-                      <a target="_blank" href="https://github.com/samyakshah3008/triples-player-react">
+                      <a target="_blank" rel="noreferrer" href="https://github.com/samyakshah3008/triples-player-react">
                       - TripleS Player: 
                       </a>
                     </span>
-                    {" "} The player's video listing page showcases featured categories. By clicking on a category, you will be directed to the corresponding videos.</p>
+                    {" "} The player video listing page showcases featured categories. By clicking on a category, you will be directed to the corresponding videos.</p>
                   <p className="mb-2">
                    - On this page, you have the ability to like or dislike videos and add or remove them from your watch later list. Additionally, you can add or remove videos from your viewing history. Moreover, you can create a playlist consisting of your favorite videos. When you click on any video from the displayed videos, you will be taken to a single video listing page. 
                   </p>
@@ -81,7 +81,7 @@ export default function Projects() {
                   </h2>
                   <p className="mb-2">
                     <span className="text-blue-600">
-                      <a target="_blank" href="https://github.com/samyakshah3008/TripleS-Chat">
+                      <a target="_blank" rel="noreferrer" href="https://github.com/samyakshah3008/TripleS-Chat">
                        - TripleS Chat:
                       </a>
                     </span>
@@ -102,7 +102,7 @@ export default function Projects() {
                   </h2>
                   <p className="mb-2">
                     <span className="text-blue-600">
-                      <a target="_blank" href="https://github.com/samyakshah3008/TripleS-UI">
+                      <a target="_blank" rel="noreferrer" href="https://github.com/samyakshah3008/TripleS-UI">
                      - TripleS UI: 
                       </a>
                     </span>{" "}
@@ -118,7 +118,7 @@ export default function Projects() {
                   </h2>
                   <p className="mb-2">
                     <span className="text-blue-600">
-                      <a target="_blank" href="https://samyakshah-portfolio.netlify.app/projects.html">
+                      <a target="_blank" rel="noreferrer" href="https://samyakshah-portfolio.netlify.app/projects.html">
                         fun mini projects
                       </a>
                     </span>{" "}
@@ -141,7 +141,7 @@ export default function Projects() {
                   </h2>
                   <p className="mb-2">
                     <span className="text-blue-600">
-                      <a target="_blank" href="https://github.com/samyakshah3008">
+                      <a target="_blank"  rel="noreferrer" href="https://github.com/samyakshah3008">
                        - Checkout all my open source contributions on Github
                       </a>
                       </span>
