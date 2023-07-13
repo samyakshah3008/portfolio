@@ -21,20 +21,19 @@ export default function Resume() {
               </h1>
             </div>
             <h2 className="text-4xl pt-4 font-bold text-gray-900 dark:text-gray-200">
-              Soham S. Shah
+              Samyak Sunilkumar Shah
             </h2>
             <div className="border-b-2">
               <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-medium">
-                Objective
+              What am I upto?
               </p>
-              <p className="text-xl pb-6">
-                I aim to deliver applications that are scalable, thoughtfully
-                crafted and that make use of best coding practices at work. I am
-                dynamic for learning new technologies and implementing them to
-                develop as per the requirement. I aspire to create an impact
-                from my work and help the developer community along witnessing
-                personal growth and exposure.
-              </p>
+              <ul className="text-xl pb-4 pl-6 list-disc">
+              <li className="my-4">I am an Open-Source Contributor, Member and Community Manager at <a class="text-blue-600" rel="noreferrer" href="https://layer5.io/community/members/samyak-shah" target="_blank">Layer5</a> and <a class="text-blue-600" rel="noreferrer" href="https://meshery.io/" target="_blank">Meshery</a> </li>
+              <li className="my-4">I contribute to various open-source projects at <a class="text-blue-600" rel="noreferrer"  href="https://moja.global/" target="_blank">Moja Global</a> and <a class="text-blue-600" rel="noreferrer" href="https://www.realdevsquad.com/" target="_blank">Real Dev Squad</a> where I contribute across multiple verticals. </li>
+              <li className="my-4">I have done couple of internships as frontend engineer at <a class="text-blue-600" rel="noreferrer" href="https://dicot.tech/" target="_blank">Dicot Innovations</a> and <a class="text-blue-600" rel="noreferrer" href="https://procred.ai/" target="_blank">ProCred.ai</a> </li>
+              <li className="my-4">I am a Beta <a class="text-blue-600" rel="noreferrer" href=" https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c3dae251-5431-4b09-99ad-df62716d044e" target="_blank">Microsoft Learn Student Ambassador</a> and Web Dev Tech Lead at Phoenix club in my University. </li>
+              <li className="my-4">I am currently completing my Bachelor's (2nd Year) in Computer Science and Engineering from Lok Jagruti University. </li>
+              </ul>
             </div>
             <div className="border-b-2">
               <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-medium">
@@ -43,56 +42,79 @@ export default function Resume() {
               <ul className="text-xl pb-4 pl-6 list-disc">
                 <li className="my-4">
                   <h2 className="font-medium text-gray-900 dark:text-gray-200 text-xl mb-2">
-                    Full Stack Developer - Quicko
+                    Open Source Contributor and Member at Layer5 & Meshery, Remote
                   </h2>
-                  <h3>April 2021 - June 2021</h3>
+                  <h3>June 2023 - Present</h3>
                   <ul className="my-2">
-                    <li>
-                      - Lead the Flutter development project and developed a
-                      fully functional Mobile and a Progressive Web App.
+                    <li className="my-2">
+                      - Members are those who perform consistently well and make impactful contributions to the company.  
                     </li>
-                    <li>
-                      - Published the app to production after UAT tests that was
-                      further used by more than 10K users.
+                 
+                    <li className="my-4">
+                      - I worked on couple of projects of Layer5 organization namely community website of both Layer5 and Meshery.  
                     </li>
+                    <li className="my-4">
+                      - Fixed several bugs and enhancement of Meshery UI Project. 
+                    </li>
+                    <li className="my-4">
+                      - Made my contributions in no-code too such as documentation update, helping newcomers on how to get started which resulted me to get offer for Community Manager at Layer5.
+                    </li>
+                    <li className="my-4"> - You can checkout my  <a
+              className="text-blue-600"
+              href="https://github.com/samyakshah3008"
+              target="_blank"
+              rel="noreferrer"
+            >
+             GitHub
+            </a> to see contributions to various open source companies. </li>
                   </ul>
+                
+          
                 </li>
                 <li className="my-4">
                   <h2 className="font-medium text-gray-900 dark:text-gray-200 text-xl mb-2">
-                    Project Mentor, GirlScript Summer of Code (GSSoC&apos;21)
+                    Frontend Engineer (Intern) at ProCred, Remote
                   </h2>
-                  <h3>March 2021 - June 2021</h3>
+                  <h3>October 2022 - May 2023</h3>
                   <ul className="my-2">
-                    <li>
-                      - Mentored 50+ GSSoC&apos;21 Participants at RottenScripts
-                      for Python and JavaScript related features and bugs
+                    <li className="my-4">
+                      - Integrated Discord, Hashnode, YouTube, GitHub with their developer's API for ProCred which aims to fetch the registered user's data to build the core product of procred, an unique resume which they can showcase to hiring companies. 
                     </li>
-                    <li>
-                      - Successfully merged 90+ PRs and performed 40+ extensive
-                      code-reviews during the program
+                 
+                    <li className="my-4">
+                      - Built a platform where team can maintain the Google Sheet, edit, view, filter from the webapp instead of Google Sheet.  
                     </li>
+                    <li className="my-4">
+                      - Developed the ProCred's website and involvement in the marketing team.
+                    </li>
+                    <li className="my-4"> - You can checkout the testimonial which I got from my Senior Jerry Kurian:   <a
+              className="text-blue-600"
+              href="https://www.linkedin.com/in/samyakshah3008/"
+              target="_blank"
+              rel="noreferrer"
+            >
+             LinkedIn Recommendation
+            </a> (Please hit Ctrl + End to head over to Recommendation section. ) </li>
                   </ul>
+                
+          
                 </li>
+                <p><span>Technology Stack: </span>NestJS, NextJS, discordJS, Integration with Hashnode, YouTube, GitHub, Google Sheets developer APIs</p>
+
                 <li className="my-4">
                   <h2 className="font-medium text-gray-900 dark:text-gray-200 text-xl mb-2">
-                    Software Developer, BotCart.co
+                  Frontend Engineer (Intern) at Dicot Innovations, Remote
                   </h2>
-                  <h3>September 2020 - November 2020</h3>
+                  <h3>September 2022 - October 2022</h3>
                   <ul className="my-2">
-                    <li>
-                      - Wrote code to revamp and redesign the Frontend of the
-                      Web Application using React.js
+                    <li className="my-4">
+                      - Worked as Frontend Engineer where I built Vision Web Product, fixed bugs, used ChakraUI and ReactJS to build frontend, at the end of internship, Team successfully launched the product.
                     </li>
-                    <li>
-                      - Worked to integrate the Application with Slack Channels
-                      by using Slack API and Bolt.js Framework
-                    </li>
-                    <li>
-                      - Implemented the RASA ChatBot framework with Python and
-                      researched NLP patterns
-                    </li>
+                  
                   </ul>
+                  <p><span>Technology Stack: </span>HTML5, CSS3, ReactJS</p>
                 </li>
+             
               </ul>
             </div>
             <div className="border-b-2">
@@ -102,98 +124,64 @@ export default function Resume() {
               <ul className="text-xl pb-4 pl-6 list-disc">
                 <li className="my-4">
                   <h2 className="font-medium text-gray-900 dark:text-gray-200 text-xl mb-2">
-                    Community Outreach Team Member at Google Developer Students
-                    Club, GHRCE
+                    Community Manager at Layer5, an open source company
                   </h2>
                   <ul className="my-2">
                     <li>
-                      - Managed the Technical Community at DSC-GHRCE - Organized
-                      events and meetups
+                      - Involved myself in planning, marketing and helping newcomers at Layer5. 
                     </li>
                     <li>
-                      - Involved myself in planning, marketing and other events
-                      of the club
+                      - Hosting Meetings, preparing meeting minutes, reviewing PRs, keeping a check on stale issues and merging open PRs to the soonest. 
                     </li>
                   </ul>
                 </li>
                 <li className="my-4">
                   <h2 className="font-medium text-gray-900 dark:text-gray-200 text-xl mb-2">
-                    Robotics Lead, AIIH Club
+                    Microsoft Learn Student Ambassador
                   </h2>
                   <ul className="my-2">
                     <li>
-                      - Organized Robotics workshops and conducted Hackathons
-                      for 1000+ students
+                      - Serving the global Microsoft community by spreading knowledge of latest tech stacks and innovations by Microsoft. 
                     </li>
                     <li>
-                      - Gave Talks on Embedded programming and Artificial
-                      Intelligence
+                      - Spreading and increasing awareness in my college about the power of involvement in tech communities. 
                     </li>
                     <li>
-                      - Conducted Workshops for students of remote-area colleges
-                      who have less exposure to latest technologies
+                      - Conducted couple of workshops with over 100+ attendees. 
                     </li>
                     <li>
-                      - Provided Robotics training for School Students and
-                      helped beginners to explore and learn the technology{" "}
+                      - Helped beginners to explore and learn the technology
                     </li>
                   </ul>
                 </li>
                 <li className="my-4">
                   <h2 className="font-medium text-gray-900 dark:text-gray-200 text-xl mb-2">
-                    Community Developer, Activeloop AI
+                    Web Dev Tech Lead at Phoenix Club
                   </h2>
                   <ul className="my-2">
                     <li>
-                      - Proposed initiative of tech-talks, developer meetups,
-                      open source contributions, rewards, etc. for the
-                      ActiveloopAI community.
+                      - I have conducted multiple workshops with over 150+ students and love to talk about various topics and technologies, mostly around VanillaJS and ReactJS.
                     </li>
                     <li>
-                      - Closely worked with the core team for the community
-                      events along with Open Source contributions
+                      - Increasing the awareness about latest technologies and providing opportunities to fellow members. 
                     </li>
                   </ul>
                 </li>
-                <li className="my-4">
-                  <h2 className="font-medium text-gray-900 dark:text-gray-200 text-xl mb-2">
-                    Open Source and Web Development Mentor, Ingenious Hackathon,
-                    Ahmedabad University
-                  </h2>
-                  <ul className="my-2">
-                    <li>
-                      - &apos;Ingenious Hackathon&apos; which is a 48-hour
-                      intensive coding hackathon partnered with IEEE organized
-                      by Ahmedabad University.
-                    </li>
-                    <li>
-                      - To suggest improvements and review of their idea and
-                      project
-                    </li>
-                    <li>
-                      - Helped the hackers in bugs or blockers while the 48 hour
-                      hackathon span
-                    </li>
-                    <li>
-                      - Solved the queries of the hackers in the field of Open
-                      Source, Web Development and Artificial Intelligence.
-                    </li>
-                  </ul>
-                </li>
+              
               </ul>
             </div>
             <div className="border-b-2">
               <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-bold">
                 Tech Stack 🛠
               </p>
-              <ul className="text-xl pb-4 pl-6 list-disc">
+              <ul className="text-xl pb-4">
                 <li className="my-2">
                   <span className="underline">Languages</span>: JavaScript,
-                  TypeScript, Java, Python, HTML5, CSS3{" "}
+                  TypeScript, Java, Python, HTML5, CSS3
                 </li>
                 <li className="my-2">
                   <span className="underline">Frameworks and Libraries</span>:
-                  React.js, Next, Node, Express, Tensorflow, OpenCV
+                  React.js, Next, Node, Express, Nest
                 </li>
                 <li className="my-2">
                   <span className="underline">Platforms</span>: Git (Github and
@@ -201,13 +189,14 @@ export default function Resume() {
                 </li>
                 <li className="my-2">
                   <span className="underline">Database</span>: MongoDB, SQL,
-                  PostgreSQL
+                  GraphQL
                 </li>
                 <li className="my-2">
                   <span className="underline">Design Libraries</span>:
-                  TailwindCSS, Bootstrap, MaterialUI, AntDesign
+                  TailwindCSS, Bootstrap, MaterialUI, ChakraUI
                 </li>
               </ul>
+              
             </div>
             <div className="border-b-2">
               <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-medium">
@@ -216,60 +205,31 @@ export default function Resume() {
               <ul className="text-xl pb-4 pl-6 list-disc">
                 <li className="my-4">
                   <h2 className="font-medium text-gray-900 dark:text-gray-200 text-xl mb-2">
-                    Adani Institute of Infrastructure Engineering
+                   Lok Jagruti University
                   </h2>
                   <ul className="my-2">
-                    <li>
-                      Major: Information and Communication Technology (ICT)
+                  <li>
+                     September 2021 - August 2025 
                     </li>
-                    <li>CGPA: 9.52</li>
+                    <li>
+                    Major: Computer Science and Engineering (2nd Year) 
+                    </li>
+                  
                   </ul>
                 </li>
               </ul>
             </div>
-
             <div className="border-b-2">
-              <p className="text-3xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-medium">
-                Awards and Achievements 🏆
+              <p className="text-2xl pb-2 pt-10 text-gray-900 dark:text-gray-200 font-medium">
+               Last updated on July 2023.
               </p>
-              <ul className="text-xl pb-4 pl-6 list-disc">
-                <li className="my-4">
-                  My Research paper entitled &apos;SOC Estimation using
-                  Filter-based and Data-driven Techniques&apos; got published in
-                  &apos;Research Challenges in Science, Engineering and
-                  Technology&apos; by NOVA publications USA.
-                </li>
-                <li className="my-4">
-                  Wrote a review paper entitled &apos;Embedded Systems and
-                  Computer Vision Techniques utilized in Spray Painting
-                  Robots&apos; which currently under review stage at Elsevier
-                  publications.
-                </li>
-                <li className="my-4">
-                  Patent for &apos;Automatic Spray-Painting Robot for Road
-                  Markings&apos; has been successfully published under Indian
-                  Patents.
-                </li>
-                <li className="my-4">
-                  Winners, AIIH 24-Hour Robotics Hackathon
-                </li>
-                <li className="my-4">Semi-finalists, EYRC IIT-Bombay</li>
-                <li className="my-4">
-                  Top Contributor of the month, ActiveloopAI Hub
-                </li>
-                <li className="my-4">
-                  Winners, Innovate to Impact(i2i) category across Gujarat state
-                  organized by &apos;Gujarat Innovation and Startup
-                  Council(GISC)&apos;, 2020-2021
-                </li>
-                <li className="my-4">
-                  Best Initiative Award, Innovative Student&apos;s Co-creation
-                  Award for Leadership and Excellence (i-SCALE) category across
-                  Gujarat state organized by &apos;Gujarat Innovation and
-                  Startup Council(GISC)&apos;, 2019-2020
-                </li>
-              </ul>
+              <p className="text-xl pb-4 pt-5 text-gray-900 dark:text-gray-200 font-medium">
+                PDF Version of the above resume can be found Here
+              </p>
+              
             </div>
+
+           
           </div>
         </div>
         <Footer />
